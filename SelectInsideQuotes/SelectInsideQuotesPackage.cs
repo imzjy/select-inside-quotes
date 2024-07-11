@@ -31,7 +31,7 @@ namespace SelectInsideQuotes
         /// <summary>
         /// SelectInsideQuotesPackage GUID string.
         /// </summary>
-        public const string PackageGuidString = "888c28fd-705b-401f-a657-acf5b23f4c0e";
+        public const string PackageGuidString = "6ccfc5b5-ba54-4f31-ba3b-eecbc2f425d5";
 
         #region Package Members
 

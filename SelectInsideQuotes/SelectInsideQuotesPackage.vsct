@@ -84,10 +84,10 @@
     </KeyBindings>
   <Symbols>
     <!-- This is the package guid. -->
-    <GuidSymbol name="guidSelectInsideQuotesPackage" value="{888c28fd-705b-401f-a657-acf5b23f4c0e}" />
+    <GuidSymbol name="guidSelectInsideQuotesPackage" value="{6ccfc5b5-ba54-4f31-ba3b-eecbc2f425d5}" />
 
     <!-- This is the guid used to group the menu commands together -->
-    <GuidSymbol name="guidSelectInsideQuotesPackageCmdSet" value="{51d58fdf-fb06-41ec-bfa7-8da09b084b09}">
+    <GuidSymbol name="guidSelectInsideQuotesPackageCmdSet" value="{2aed9e56-6c2d-44c5-b0f1-cfbcd37d571d}">
       <IDSymbol name="MyMenuGroup" value="0x1020" />
       <IDSymbol name="CommandId" value="0x0100" />
     </GuidSymbol>

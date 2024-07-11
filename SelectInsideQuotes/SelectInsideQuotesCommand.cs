@@ -26,7 +26,7 @@ namespace SelectInsideQuotes
         /// <summary>
         /// Command menu group (command set GUID).
         /// </summary>
-        public static readonly Guid CommandSet = new Guid("51d58fdf-fb06-41ec-bfa7-8da09b084b09");
+        public static readonly Guid CommandSet = new Guid("2aed9e56-6c2d-44c5-b0f1-cfbcd37d571d");
 
         /// <summary>
         /// VS Package that provides this command, not null.
